@@ -1,4 +1,15 @@
 agenda-meeting-automation-system
 ================================
 
-A free software to manage agenda and meeting using web interface. 
+A free software to manage Agenda and Meeting using web interface. 
+
+* Schedule meetings (including priodic meetings)
+* Prepair agenda of meetings
+* Invite paritcipants
+* Assign task to particpates to do
+* Make reports of assigned tasks for next meetings (Onlie edit with document attachments)
+* Create Rule/ToDo/Law database based on meeting results
+* Support different timezone/calendar (include Jalali calendar)
+* Support different languages and locals (include RTL languages)
+* Send notification to participates via email/sms/etc
+* 
