@@ -13,5 +13,5 @@ A free software to manage Agenda and Meeting using web interface.
 * Support different languages and locals (include RTL languages)
 * Send notification to participates via email/sms/etc
 * Participants can add note/minutes (privately or share it with others)
-* Make link between a meeinh Item to another one to make ablility to generate historical report
-
+* Make link between a meeting item/minutes to another one to make ablility to generate historical report
+* Customizable agenda approval flow
