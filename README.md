@@ -12,4 +12,5 @@ A free software to manage Agenda and Meeting using web interface.
 * Support different timezone/calendar (include Jalali calendar)
 * Support different languages and locals (include RTL languages)
 * Send notification to participates via email/sms/etc
-* 
+* Participants can add note/minutes (privately or share it with others)
+
